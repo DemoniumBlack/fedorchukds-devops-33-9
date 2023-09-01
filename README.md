@@ -171,7 +171,7 @@
 
 ![img_22.png](IMG/img_22.png)
 
-На виртуальной машине с Ubuntu запускаю Node Exporter:
+На виртуальной машине с Ubuntu запускаю Node Exporter и cAdvisor:
 
 ![img_23.png](IMG/img_23.png)
 
