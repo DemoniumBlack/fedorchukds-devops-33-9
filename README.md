@@ -173,7 +173,7 @@
 
 На виртуальной машине с Ubuntu запускаю Node Exporter и cAdvisor:
 
-
+![img_23.png](IMG/img_23.png)
 
 На виртуальной машине Alma Linux, где запущены Prometheus и Grafana в файл конфигурации ```prometheus.yml``` добавляю хост второй виртуальной машины для Node Exporter и cAdvisor и перезапускаю контейнер с Prometheus.
 
